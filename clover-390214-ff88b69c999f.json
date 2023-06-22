@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "clover-390214",
+  "private_key_id": "ff88b69c999f9b4dcc44605908c1906a51490dc2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsgwADKViuEY7e\nBSEzIiZLJRMBoRJSzeNaw2Y/m37WW10tkyHxTtcnkxAQcZHXyAWCyWY+OlZitXvH\n2UbDnZ9f5C8UJVdiaTxuwe1DMmbS5TCcV1Li5pUgF6SNqYtTkx5/DwFrjOMmJlOP\nDHD/hlGmT+9FrOTVUA2i5nu9TX7JQn7/uJ1b0frfUR9pKW6e4vY5MwatuQLCVCoO\nQv7UvT2I3xgUCsm8z/j1b8P1Mwmscd5/hmKK8nU4mla6ka6cBcVEX89wa1fxQsWp\nsC0I/rnML5JwCZwz9pXA99Z0PdTYK0zhmQT6zHfC8/KIebl2u0UY0e7paeltSY55\njF9m/sMNAgMBAAECggEAAdgKnX4JJR8p7ESYxL+mMiJs0BUlKX5q4jL5ek+SrP7g\nAZczgy1JDnK7drmICgroyCuX7K1Z9Aclkg7H+1pJdFBvkmMNyo7+Zt6qxw+YWsO5\nX8ptJ+C4ElY+W4dG5ndJmakS5k/ks6kwNnS3Fnwcjk8HazK8ZW1MIAQfqXfVFZic\nXL2x/H1GT9ErbSckeqX2rE2Op69NVTJmkf0yoehxnA0xxg/ECm4GWDDLIwkLLiwG\n31fjBWcq3Mlwc82sHrfbpskt3vxyoqAu+leL52xv1PR9wipx+iCldYB9c9JCf3x6\nas37hVBhtoKW31I4R16M//4vZcvD4ewPlMw4L7N7LwKBgQDbdXwWa811v3fpu+qg\neLW6DZqFgEB8GlJKijngR3UuihWXdM7qMJBsHjW1i6ygAplkrpy4J72uRKOjoaCI\ndDjI9A8gvRT/j3bjeXbWC4eNzTbaeL01f3DtGDWtvOc9SUb4W8Zic/pxxl5RATEQ\ndKdR+zMWCsn0jU9vO6PN7vcdawKBgQDJPF+11LIu2AswE7rUEqVaCkFb/uQlQ2wf\nU+FsWtIxiEToImrL7LQ2VRMy1l04bmI8SN6RnQ/E9a5AnzNS9qfByePnGkdROpOQ\n3Z9k42TOS/bQNhT7mcyGb2ahM7KRzcIyERjdnyigP1oa5EILpdz/KOHD3Ou5Dgt6\n1uxpTEwHZwKBgQCpH1PeT3uJt2Eorhl1SzD4zYz8PsbzHLG4IefSMB9dGyriijD/\nByf1Oh635ojE0tv1XB8ISBAEIX9eFauKHM66BmM2HqD1BVFgofVzpHT1UWVpXcyq\nUqjq/lI3rrEhaLwZn1g1/RzO20lJ8bom7U8YfZZz8SKLpO7HUNW+WN71OwKBgBut\nmCR0SsWypWdJb2r33ZJS0saKemq9qUNt0BWNMFfrvD6JbVL7DZZjgS5+2XeHhy9v\nfl1c0uxuNjdhLjf9APnggN4qeSCtA9rrAJ9pv1W4kQv2RFCOyNi8vcryR19Sg6FL\nRLZGy9munQAR4RulBo552wOLgUiErAOLSBz7h4GFAoGAMIVjTqnxLex6jwiQo4fw\nv835BzvV9nZPgGy6WyEMPCBbhkEctpdd24uG2JUijrlvEywXWDRykMsoqceMpT5k\n7Zd3qpAw6FS7HaMKuogg8O/zeDi2DQPnxU/36L8upZjOwxnVIk+tKHHQlQFlRgf0\nhcAufDVZXfIdnnQxhRDMpn0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "clover@clover-390214.iam.gserviceaccount.com",
+  "client_id": "114375808925566001083",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/clover%40clover-390214.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
